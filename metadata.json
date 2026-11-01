@@ -1,0 +1,6 @@
+{
+  "name": "Industrial & Financial AI Predictive Analytics Suite",
+  "description": "Enterprise predictive intelligence dashboard for industrial sensor machine health, financial credit card fraud detection, visual analytics, ML model scoreboard, and vehicle & income estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
